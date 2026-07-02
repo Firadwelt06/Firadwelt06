@@ -2,7 +2,7 @@
 
 I help businesses turn messy, scattered data into clean systems and actionable insights — through database management, workflow automation, and custom data solutions.
 
-🔗 **Portfolio / Website:** [Adwelt Enterprises](https://firadwelt06.github.io/REPLACE-WITH-YOUR-REPO-NAME/)
+🔗 **Portfolio / Website:** [Adwelt Enterprises](https://firadwelt06.github.io/Adwelt-website/)
 
 💼 **Recent work:**
 - Smart Result NG — migrated a school result system from Excel to a MySQL + Streamlit platform with instant PDF generation
