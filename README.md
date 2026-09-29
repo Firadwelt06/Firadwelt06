@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Bukola — Data Engineer & Database Management Consultant
+### 👋 Hi, I'm Olorunbukola — Data Engineer & Database Management Consultant
 
 I help businesses turn messy, scattered data into clean systems and actionable insights — through database management, workflow automation, and custom data solutions.
 
