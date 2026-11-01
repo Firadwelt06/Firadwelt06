@@ -5,7 +5,7 @@ I help businesses turn messy, scattered data into clean systems and actionable i
 🔗 **Portfolio / Website:** [Adwelt Enterprises](https://firadwelt06.github.io/Adwelt-website/)
 
 💼 **Recent work:**
-- **F1 Data Engineering Project** — 1950–2026 Formula 1 data taken from raw CSVs to a normalized MySQL schema, EXPLAIN-optimized analytics, a Dagster pipeline, AES-256 encrypted backups with restore drills, a two-stage ML race-outcome model, and a live Flask dashboard. [Repo](YOUR_REPO_URL) · [Live demo](YOUR_RENDER_URL)
+- **F1 Data Engineering Project** — 1950–2026 Formula 1 data taken from raw CSVs to a normalized MySQL schema, EXPLAIN-optimized analytics, a Dagster pipeline, AES-256 encrypted backups with restore drills, a two-stage ML race-outcome model, and a live Flask dashboard. · [Live Demo](https://f1-data-project.onrender.com/)
 - Smart Result NG — migrated a school result system from Excel to a MySQL + Streamlit platform with instant PDF generation
 - Retail Performance Engine — ML-driven engine predicting expected store sales and flagging underperformance
 - EduTrack — School database system (student records, grading, admin/enrollment, teachers) built with MySQL + Flask, currently in live testing
